@@ -12,9 +12,9 @@ A kitchen sink 1.21.1 NeoForge modpack featuring underrated and lesser-known mod
 *don't add more than 8GB or it may cause performance issues.*
 
 ## Featured Mods
-- OriTech: A technology-focused mod, with animated machinery, diverse processing options, and plenty of new mechanics and equipment.
-- Malum: A minecraft mod about dark magic.
-- Cosy Critters & Creepy Crawlies: Adds adorable and abstruse atmospheric animals, accentuating aesthetics.
-- Icarus Wings: A story about bees, feather and the sky. A testament to human ingenuity.
-- ShineaL's Prehistoric Expansion: Mythology And Prehistoric Creatures Reclaim The Overworld
-- Piglet Structures: Adds over 100 structures with multiple variants, 235 custom items, 90+ custom blocks and 30+ mobs
+- **OriTech**: A technology-focused mod, with animated machinery, diverse processing options, and plenty of new mechanics and equipment.
+- **Malum**: A minecraft mod about dark magic.
+- **Cosy Critters & Creepy Crawlies**: Adds adorable and abstruse atmospheric animals, accentuating aesthetics.
+- **Icarus Wings**: A story about bees, feather and the sky. A testament to human ingenuity.
+- **ShineaL's Prehistoric Expansion**: Mythology And Prehistoric Creatures Reclaim The Overworld
+- **Piglet Structures**: Adds over 100 structures with multiple variants, 235 custom items, 90+ custom blocks and 30+ mobs
